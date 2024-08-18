@@ -318,9 +318,9 @@ header p {
   justify-content: center;
   flex-direction: column;
   min-height: 20vh;
-  max-height: 40vh;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  max-height: 45vh;
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-align: center;
   border-top: .8vh solid black;
   border-bottom: .8vh solid black;

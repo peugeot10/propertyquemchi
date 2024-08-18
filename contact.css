@@ -126,3 +126,26 @@
     border-radius: 25px;
     }
   }
+
+  /* select box */
+
+  .select-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .select-box {
+    border: none;
+    appearance: none;
+    width: 100%;
+    color: black;
+    background-color: ;
+    font-size: 20px;
+  }
+  
+  .icon-container i {
+    font-size: 30px;
+    color: black;
+  }
